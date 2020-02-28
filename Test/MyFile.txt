@@ -1,2 +1,4 @@
 This is a text  file created.
 modified one.
+Some new content is added
+A new BugFix is Created
